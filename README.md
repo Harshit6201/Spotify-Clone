@@ -10,3 +10,4 @@ Display the currently playing song and album artwork.
 # Usage-
 Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
 
+![image alt](https://github.com/Harshit6201/Spotify-Clone/blob/bc258a75ef40243439181ea2f0483e0526a4f83a/Screenshot%202025-01-21%20161502.png)
